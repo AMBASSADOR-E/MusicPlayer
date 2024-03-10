@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\C#\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\USER\Desktop\C#\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\USER\Desktop\C#\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\USER\Desktop\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\USER\Desktop\C#\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
